@@ -35,7 +35,7 @@ FEATURE_VIEW_NAME = "citibike_hourly_feature_view"
 
 FEATURE_VIEW_VERSION = 1
 
-MODEL_NAME = "citibike_demand_predictor_next_hour"
+MODEL_NAME = "citibike_rides_demand_predictor_next_hour"
 MODEL_VERSION = 1
 
 FEATURE_GROUP_MODEL_PREDICTION = "citibike_hourly_model_prediction"
